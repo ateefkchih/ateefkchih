@@ -27,15 +27,9 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <a href="https://www.instagram.com/ateef_kchih/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
